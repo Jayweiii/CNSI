@@ -7,7 +7,7 @@ Scripts are on the left hand side under files
 
 # Scripts
 * sortResponses.s sorts the job submittal sheet from most to least recent submittal time
-* grayOutDone.gs changes a row's text color if the status of the job matches a keyword, such as "done".
+* grayOutDone.gs changes a row's text color if the status of the job matches a keyword such as "done".
 * italicizeInProgress.gs italicizes a row if the status of the job matches a keyword such as "in progress".
  * note that the top left cell of a sheet start at index [0,0] everywhere except the Range class (starts at [1,1])
 
